@@ -26,7 +26,7 @@ npm run e2e
 # run all tests
 npm test
 
-# run electron
+# run electron (you need to start dev server before)
 electron .
 ```
 
